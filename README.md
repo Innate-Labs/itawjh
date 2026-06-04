@@ -59,7 +59,7 @@
 ## 🎬 产品截图
 
 <div align="center">
-  <img src="./screenshots/home.png" alt="一人公司架构 首页" width="100%" />
+  <img src="./screenshots/home.jpg" alt="一人公司架构 首页" width="100%" />
   <br/>
   <sub><b>AI 驱动的一人公司操作系统</b></sub>
 </div>
